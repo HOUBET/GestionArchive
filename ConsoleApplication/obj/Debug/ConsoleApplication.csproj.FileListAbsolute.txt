@@ -34,3 +34,15 @@ C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ConsoleApplication\bin
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\ClassLibrary.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\QueryBuilder.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\SqlKata.Execution.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\Dapper.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\ClassLibrary.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\bin\Debug\Dapper.xml
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

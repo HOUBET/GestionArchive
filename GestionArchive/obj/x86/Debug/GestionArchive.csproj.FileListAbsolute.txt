@@ -89,3 +89,42 @@ C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\GestionArchive\bin\Deb
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\GestionArchive\bin\Debug\Dapper.xml
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.exe
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\GestionArchive.exe.config
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\GestionArchive.exe
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\GestionArchive.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\ClassLibrary.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\GoogleTranslateFreeApi.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.AppContext.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Console.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.IO.Compression.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Net.Http.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Net.Sockets.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\QueryBuilder.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\SqlKata.Execution.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\Dapper.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\ClassLibrary.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\GoogleTranslateFreeApi.xml
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\bin\Debug\Dapper.xml
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.csprojResolveAssemblyReference.cache
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.Form1.resources
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.FrmClasse.resources
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.FrmEtudiant.resources
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.Properties.Resources.resources
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.csproj.GenerateResource.Cache
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.exe
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.pdb

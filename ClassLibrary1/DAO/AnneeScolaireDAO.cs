@@ -63,7 +63,7 @@ namespace DAO
             {
                 SqlServerCompiler compiler = new SqlServerCompiler();
                 var db = new QueryFactory(connection, compiler);
-                var anneeScolaires = db.Query("AnneeScolaire").Select("IdAnneeScolaire", "Annee").GetAsync<AnneeScolaire>().GetAwaiter().GetResult();
+                var anneeScolaires = db.Query("AnneeScolaire").Select("IdAnneeScolaire", "Annee").Get<AnneeScolaire>();
                 //If The List is empty then return null
                 if (anneeScolaires.Count() == 0)
                     return null;

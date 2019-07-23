@@ -33,3 +33,15 @@ C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ClassLibrary1\bin\Debu
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ClassLibrary1\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ClassLibrary1\obj\Debug\ClassLibrary.dll
 C:\Users\SERVER\Source\Repos\yousseffatihi\GestionArchive\ClassLibrary1\obj\Debug\ClassLibrary.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\ClassLibrary.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\ClassLibrary.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\Dapper.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\QueryBuilder.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\SqlKata.Execution.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\System.Security.Permissions.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\bin\Debug\Dapper.xml
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\obj\Debug\ClassLibrary.dll
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\ClassLibrary1\obj\Debug\ClassLibrary.pdb

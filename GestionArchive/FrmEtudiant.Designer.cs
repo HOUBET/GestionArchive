@@ -423,6 +423,7 @@
             this.txtPrenom.Name = "txtPrenom";
             this.txtPrenom.Size = new System.Drawing.Size(158, 20);
             this.txtPrenom.TabIndex = 2;
+            this.txtPrenom.TextChanged += new System.EventHandler(this.txtPrenom_TextChanged);
             this.txtPrenom.Leave += new System.EventHandler(this.txtPrenom_LeaveAsync);
             // 
             // label3
@@ -466,6 +467,7 @@
             this.txtNom.Name = "txtNom";
             this.txtNom.Size = new System.Drawing.Size(158, 20);
             this.txtNom.TabIndex = 1;
+            this.txtNom.TextChanged += new System.EventHandler(this.txtNom_TextChanged);
             this.txtNom.Leave += new System.EventHandler(this.txtNom_LeaveAsync);
             // 
             // label11

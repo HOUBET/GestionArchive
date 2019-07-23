@@ -307,5 +307,15 @@ namespace GestionArchive
             if (txtLieuAr.Text == "")
                 await Translate(txtLieu, txtLieuAr);
         }
+
+        private void txtNom_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPrenom_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

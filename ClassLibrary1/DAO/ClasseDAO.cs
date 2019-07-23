@@ -42,7 +42,7 @@ namespace DAO
             {
                 SqlServerCompiler compiler = new SqlServerCompiler();
                 var db = new QueryFactory(connection, compiler);
-                var classes = db.Query("Classe").GetAsync<Classe>().GetAwaiter().GetResult();
+                var classes = db.Query("Classe").Get<Classe>();
                 if (classes.Count() == 0)
                     return null;
                 return classes;
