@@ -17,7 +17,7 @@ namespace GestionArchive
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmClasse());
+            Application.Run(new MainFrm());
         }
     }
 }

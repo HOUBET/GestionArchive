@@ -520,6 +520,7 @@
             this.MinimumSize = new System.Drawing.Size(1280, 720);
             this.Name = "FrmEtudiant";
             this.Text = "FrmEtudiant";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmEtudiant_FormClosing);
             this.Load += new System.EventHandler(this.FrmEtudiant_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.grbFrançais.ResumeLayout(false);

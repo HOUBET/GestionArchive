@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.Add = new System.Windows.Forms.Button();
-            this.Update = new System.Windows.Forms.Button();
             this.Delete = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -44,7 +43,8 @@
             // 
             // Add
             // 
-            this.Add.Location = new System.Drawing.Point(433, 24);
+            this.Add.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Add.Location = new System.Drawing.Point(530, 18);
             this.Add.Name = "Add";
             this.Add.Size = new System.Drawing.Size(81, 21);
             this.Add.TabIndex = 0;
@@ -52,19 +52,10 @@
             this.Add.UseVisualStyleBackColor = true;
             this.Add.Click += new System.EventHandler(this.Add_Click);
             // 
-            // Update
-            // 
-            this.Update.Location = new System.Drawing.Point(433, 64);
-            this.Update.Name = "Update";
-            this.Update.Size = new System.Drawing.Size(81, 21);
-            this.Update.TabIndex = 1;
-            this.Update.Text = "Modifier";
-            this.Update.UseVisualStyleBackColor = true;
-            this.Update.Click += new System.EventHandler(this.Update_Click);
-            // 
             // Delete
             // 
-            this.Delete.Location = new System.Drawing.Point(530, 24);
+            this.Delete.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Delete.Location = new System.Drawing.Point(530, 50);
             this.Delete.Name = "Delete";
             this.Delete.Size = new System.Drawing.Size(81, 21);
             this.Delete.TabIndex = 2;
@@ -98,7 +89,6 @@
             this.groupBox1.Controls.Add(this.nclasse);
             this.groupBox1.Controls.Add(this.Delete);
             this.groupBox1.Controls.Add(this.label1);
-            this.groupBox1.Controls.Add(this.Update);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.Add);
             this.groupBox1.Location = new System.Drawing.Point(25, 22);
@@ -122,7 +112,8 @@
             // 
             // btnshow
             // 
-            this.btnshow.Location = new System.Drawing.Point(530, 64);
+            this.btnshow.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnshow.Location = new System.Drawing.Point(530, 82);
             this.btnshow.Name = "btnshow";
             this.btnshow.Size = new System.Drawing.Size(81, 21);
             this.btnshow.TabIndex = 10;
@@ -132,6 +123,7 @@
             // 
             // nivclasse
             // 
+            this.nivclasse.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
             this.nivclasse.FormattingEnabled = true;
             this.nivclasse.Location = new System.Drawing.Point(107, 64);
             this.nivclasse.Name = "nivclasse";
@@ -152,10 +144,16 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(702, 438);
             this.Controls.Add(this.groupBox1);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "FrmClasse";
+            this.Opacity = 0.97D;
             this.Text = "FrmClasse";
+            this.TransparencyKey = System.Drawing.SystemColors.ActiveBorder;
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmClasse_FormClosing);
             this.Load += new System.EventHandler(this.FrmClasse_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
@@ -167,7 +165,6 @@
         #endregion
 
         private System.Windows.Forms.Button Add;
-        private System.Windows.Forms.Button Update;
         private System.Windows.Forms.Button Delete;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;

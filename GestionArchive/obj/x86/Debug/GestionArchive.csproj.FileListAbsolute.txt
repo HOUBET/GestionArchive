@@ -128,3 +128,4 @@ C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Deb
 C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.csproj.GenerateResource.Cache
 C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.exe
 C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.pdb
+C:\Users\DESKTOP 3\Source\Repos\HOUBET\GestionArchive\GestionArchive\obj\x86\Debug\GestionArchive.MainFrm.resources
