@@ -37,6 +37,7 @@
             this.btnshow = new System.Windows.Forms.Button();
             this.nivclasse = new System.Windows.Forms.ComboBox();
             this.nclasse = new System.Windows.Forms.ComboBox();
+            this.Modifier = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Table)).BeginInit();
             this.SuspendLayout();
@@ -44,7 +45,7 @@
             // Add
             // 
             this.Add.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.Add.Location = new System.Drawing.Point(530, 18);
+            this.Add.Location = new System.Drawing.Point(391, 24);
             this.Add.Name = "Add";
             this.Add.Size = new System.Drawing.Size(81, 21);
             this.Add.TabIndex = 0;
@@ -55,7 +56,7 @@
             // Delete
             // 
             this.Delete.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.Delete.Location = new System.Drawing.Point(530, 50);
+            this.Delete.Location = new System.Drawing.Point(505, 24);
             this.Delete.Name = "Delete";
             this.Delete.Size = new System.Drawing.Size(81, 21);
             this.Delete.TabIndex = 2;
@@ -83,6 +84,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.Modifier);
             this.groupBox1.Controls.Add(this.Table);
             this.groupBox1.Controls.Add(this.btnshow);
             this.groupBox1.Controls.Add(this.nivclasse);
@@ -113,7 +115,7 @@
             // btnshow
             // 
             this.btnshow.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnshow.Location = new System.Drawing.Point(530, 82);
+            this.btnshow.Location = new System.Drawing.Point(391, 59);
             this.btnshow.Name = "btnshow";
             this.btnshow.Size = new System.Drawing.Size(81, 21);
             this.btnshow.TabIndex = 10;
@@ -139,6 +141,16 @@
             this.nclasse.Size = new System.Drawing.Size(201, 21);
             this.nclasse.TabIndex = 8;
             this.nclasse.SelectedIndexChanged += new System.EventHandler(this.nclasse_SelectedIndexChanged);
+            // 
+            // Modifier
+            // 
+            this.Modifier.Location = new System.Drawing.Point(505, 59);
+            this.Modifier.Name = "Modifier";
+            this.Modifier.Size = new System.Drawing.Size(81, 21);
+            this.Modifier.TabIndex = 12;
+            this.Modifier.Text = "Modifier";
+            this.Modifier.UseVisualStyleBackColor = true;
+            this.Modifier.Click += new System.EventHandler(this.Modifier_Click);
             // 
             // FrmClasse
             // 
@@ -173,5 +185,6 @@
         private System.Windows.Forms.Button btnshow;
         private System.Windows.Forms.ComboBox nivclasse;
         private System.Windows.Forms.ComboBox nclasse;
+        private System.Windows.Forms.Button Modifier;
     }
 }

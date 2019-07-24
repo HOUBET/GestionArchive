@@ -47,13 +47,7 @@ namespace GestionArchive
 
         private void Update_Click(object sender, EventArgs e)
         {
-            var cDAO = new ClasseDAO();
-            var classe = cDAO.GetClasse(int.Parse(Table.CurrentRow.Cells[0].Value.ToString()));
-            classe.NomClasse = nclasse.Text;
-            classe.NiveauClasse = nivclasse.Text;
-            nivclasse.Text = null;
-            nclasse.Text = null;
-            ShowAll();
+            
 
         }
 
@@ -129,8 +123,20 @@ namespace GestionArchive
 
         private void FrmClasse_FormClosing(object sender, FormClosingEventArgs e)
         {
-            MainFrm f1 = new MainFrm();
-            f1.Show();
+            MainFrm f5 = new MainFrm();
+            f5.Show();
+        }
+
+        private void Modifier_Click(object sender, EventArgs e)
+        {
+            var cDAO = new ClasseDAO();
+            var classe = cDAO.GetClasse(int.Parse(Table.CurrentRow.Cells[0].Value.ToString()));
+            classe.NomClasse = nclasse.Text;
+            classe.NiveauClasse = nivclasse.Text;
+            int rs = new ClasseDAO().UpdateClasse(classe);
+            nivclasse.Text = null;
+            nclasse.Text = null;
+            ShowAll();
         }
     }
 }

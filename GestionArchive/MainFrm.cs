@@ -26,16 +26,16 @@ namespace GestionArchive
 
         private void Classe_Click(object sender, EventArgs e)
         {
-            FrmClasse f1 = new FrmClasse();
-            f1.Show();
-            this.Dispose();
+            FrmClasse f3 = new FrmClasse();
+            f3.Show();
+            this.Hide();
         }
 
         private void Note_Click(object sender, EventArgs e)
         {
-            Form1 f1 = new Form1();
-            f1.Show();
-            this.Dispose();
+            Form1 f2 = new Form1();
+            f2.Show();
+            this.Hide();
         }
 
         private void MainFrm_FormClosing(object sender, FormClosingEventArgs e)

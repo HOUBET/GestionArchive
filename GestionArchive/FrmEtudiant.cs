@@ -320,8 +320,8 @@ namespace GestionArchive
 
         private void FrmEtudiant_FormClosing(object sender, FormClosingEventArgs e)
         {
-            MainFrm f1 = new MainFrm();
-            f1.Show();
+            MainFrm f4 = new MainFrm();
+            f4.Show();
         }
     }
 }

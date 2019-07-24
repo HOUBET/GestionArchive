@@ -122,8 +122,8 @@ INNER JOIN Classe c on c.IdClasse = a.IdClasse WHERE e.IdEtudiant = 2
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            MainFrm f1 = new MainFrm();
-            f1.Show();
+            MainFrm f6 = new MainFrm();
+            f6.Show();
         }
     }
 }
